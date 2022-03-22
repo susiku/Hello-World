@@ -40,18 +40,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **wycliff susiku mubita*
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/susiku)
+- Twitter: [@twitterhandle](https://twitter.com/@ws_mubita)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/wycliff-susiku-mubita-010423ba)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+👤 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!

@@ -1,40 +1,21 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+ Hello Microversr
 
 > Description the project.
+ The project used linters to flag errors
 
 
 ## Built With
 
 - Major languages
+  html 
+  css
 - Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+  github
+- Technologies
+ linters
 
 
 
@@ -46,7 +27,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/@ws_mubita)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/wycliff-susiku-mubita-010423ba)
 
-👤 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
